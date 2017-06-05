@@ -1,5 +1,5 @@
 === Site Info ===
-Contributors: GenerateWP, ramiy
+Contributors: Union Digital
 Tags: dashboard, dashboard widget, site info
 Requires at least: 3.0
 Tested up to: 4.5
@@ -11,20 +11,8 @@ WordPress dashboard widget displaying the main site info.
 
 == Description ==
 
-This simple, but useful, plugin adds a widget to your WordPress dashboard, displaying a list of site information. Showing the site name, tagline, site URL, admin URL, admin language, text direction, WordPress version and PHP version.
+WordPress dashboard widget displaying the main site info.
 
-It's very handy if you want to see your site general information in one place - your sites dashboard.
-
-= More info =
-
-To read how this plugin was developed, including code examples and screenshots, visit: https://GenerateWP.com/introducing-dashboard-widgets-generator/
-
-You can find the plugin source code in here:
-
-* https://GenerateWP.com/snippet/nvl3vxg/
-* https://GenerateWP.com/snippet/2VvAap6/
-
-And you can ask for more features using the original post comments area.
 
 == Installation ==
 
@@ -46,15 +34,4 @@ And you can ask for more features using the original post comments area.
 
 == Screenshots ==
 
-1. WordPress dashboard with the "Site Info" widget.
-
 == Changelog ==
-
-= 1.1 (2016-04-28) =
-* Fix "MySQL" notice.
-* Add more data - Web Server Info, WordPress Memory Limit, and Home URL.
-* Add phpDocs.
-
-= 1.0 (2015-10-10) =
-* Initial release.
-* Register dashboard widget.
